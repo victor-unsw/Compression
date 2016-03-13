@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/victorchoudhary/Documents/Workspace/Semester/Web Search & Comprsn/compression/AdaptiveHuffman/src/floating_tree.cpp
+iostream
+-
+string
+-
+cmath
+-
+
