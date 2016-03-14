@@ -6,11 +6,19 @@
 
 #IncludeRegexTransform: 
 
+/Users/victorchoudhary/Documents/Workspace/Semester/Web Search & Comprsn/compression/AdaptiveHuffman/include/floating_tree.hpp
+
 /Users/victorchoudhary/Documents/Workspace/Semester/Web Search & Comprsn/compression/AdaptiveHuffman/src/floating_tree.cpp
+iostream
+-
+../include/floating_tree.hpp
+/Users/victorchoudhary/Documents/Workspace/Semester/Web Search & Comprsn/compression/AdaptiveHuffman/include/floating_tree.hpp
+
+/Users/victorchoudhary/Documents/Workspace/Semester/Web Search & Comprsn/compression/AdaptiveHuffman/src/main.cpp
 iostream
 -
 string
 -
-cmath
--
+../include/floating_tree.hpp
+/Users/victorchoudhary/Documents/Workspace/Semester/Web Search & Comprsn/compression/AdaptiveHuffman/include/floating_tree.hpp
 

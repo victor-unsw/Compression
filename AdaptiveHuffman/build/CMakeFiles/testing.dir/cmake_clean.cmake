@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/testing.dir/src/main.cpp.o"
   "CMakeFiles/testing.dir/src/floating_tree.cpp.o"
   "testing.pdb"
   "testing"
