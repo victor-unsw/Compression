@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/victorchoudhary/Documents/Workspace/Semester/Web Search & Comprsn/compression/Arithmetic_Coding/Code/src/main.cpp
+iostream
+-
+cmath
+-
+string
+-
+limits
+-
+fstream
+-
+iostream
+-
+
